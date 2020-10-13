@@ -7,7 +7,7 @@ Sam International Technical Test Online Test with integration of OneSignal
 # Please follow the below steps to Run this application:
 
 1- Install asp.net core 2.2 if not installed already,
-    You can download from here directly, https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral    
+    You can download from here directly, https://dotnet.microsoft.com/download/visual-studio-sdks?utm_source=getdotnetsdk&utm_medium=referral
 2- Create a new folder in your local system, e.g E:\codingAssignment
 3- Open git bash and go to this folder's location, e.g. > cd E:\codingAssignment
 4- Clone this git repository on this folder using the following command:
